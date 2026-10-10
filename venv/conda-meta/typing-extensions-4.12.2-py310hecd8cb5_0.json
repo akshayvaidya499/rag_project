@@ -1,0 +1,36 @@
+{
+  "build": "py310hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "typing_extensions 4.12.2 py310hecd8cb5_0"
+  ],
+  "extracted_package_dir": "/Users/akshayvaidya/anaconda3/pkgs/typing-extensions-4.12.2-py310hecd8cb5_0",
+  "features": "",
+  "files": [],
+  "fn": "typing-extensions-4.12.2-py310hecd8cb5_0.conda",
+  "legacy_bz2_md5": "e60873d80e41c4982c942e51ce32909a",
+  "license": "PSF-2.0",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/akshayvaidya/anaconda3/pkgs/typing-extensions-4.12.2-py310hecd8cb5_0",
+    "type": 1
+  },
+  "md5": "b2f93c76fb6adba1874c16431099f90e",
+  "name": "typing-extensions",
+  "package_tarball_full_path": "/Users/akshayvaidya/anaconda3/pkgs/typing-extensions-4.12.2-py310hecd8cb5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8c5949c5de77e9f4b6458d17b102c1c3985417abf434c4de49d664180feb5a16",
+  "size": 10427,
+  "subdir": "osx-64",
+  "timestamp": 1734715076387,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/typing-extensions-4.12.2-py310hecd8cb5_0.conda",
+  "version": "4.12.2"
+}

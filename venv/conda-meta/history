@@ -1,0 +1,30 @@
+==> 2026-10-08 20:28:58 <==
+# cmd: /Users/akshayvaidya/anaconda3/bin/conda create -p venv python==3.10
+# conda version: 23.1.0
++defaults/noarch::pip-26.2.1-pyhc872135_0
++defaults/noarch::tzdata-2026c-he532380_0
++defaults/osx-64::bzip2-1.0.8-h6c40b1e_6
++defaults/osx-64::ca-certificates-2025.7.15-hecd8cb5_0
++defaults/osx-64::libcxx-19.1.7-haebbb44_3
++defaults/osx-64::libffi-3.3-hb1e8313_2
++defaults/osx-64::ncurses-6.5-h923df54_0
++defaults/osx-64::openssl-1.1.1w-hca72f7f_0
++defaults/osx-64::python-3.10.0-hdfd78df_5
++defaults/osx-64::readline-8.3-h49f2429_0
++defaults/osx-64::setuptools-78.1.1-py310hecd8cb5_0
++defaults/osx-64::sqlite-3.50.2-hc8b0dd6_1
++defaults/osx-64::tk-8.6.15-h3a5a201_0
++defaults/osx-64::wheel-0.45.1-py310hecd8cb5_0
++defaults/osx-64::xz-5.6.4-h46256e1_1
++defaults/osx-64::zlib-1.2.13-h4b97444_1
+# update specs: ['python==3.10']
+==> 2026-10-08 20:42:05 <==
+# cmd: /Users/akshayvaidya/anaconda3/bin/conda install --prefix /Users/akshayvaidya/Desktop/Rag_Chatboat/venv pydantic==2.11.7 -y
+# conda version: 23.1.0
++defaults/osx-64::annotated-types-0.6.0-py310hecd8cb5_0
++defaults/osx-64::pydantic-2.11.7-py310hecd8cb5_0
++defaults/osx-64::pydantic-core-2.33.2-py310hb0c8e1d_0
++defaults/osx-64::typing-extensions-4.12.2-py310hecd8cb5_0
++defaults/osx-64::typing-inspection-0.4.0-py310hecd8cb5_0
++defaults/osx-64::typing_extensions-4.12.2-py310hecd8cb5_0
+# update specs: ['pydantic==2.11.7']

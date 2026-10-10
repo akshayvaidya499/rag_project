@@ -1,0 +1,13 @@
+prefix=/Users/akshayvaidya/Desktop/Rag_Chatboat/venv
+exec_prefix=/Users/akshayvaidya/Desktop/Rag_Chatboat/venv
+libdir=/Users/akshayvaidya/Desktop/Rag_Chatboat/venv/lib
+sharedlibdir=/Users/akshayvaidya/Desktop/Rag_Chatboat/venv/lib
+includedir=/Users/akshayvaidya/Desktop/Rag_Chatboat/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
